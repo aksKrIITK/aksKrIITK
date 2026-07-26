@@ -1,15 +1,15 @@
 # Hi, I'm Aakash Kumar 👋
 
-**AI / Backend Engineer** building production-grade GenAI & Agentic AI systems — RAG pipelines, LangChain/LangGraph multi-agent workflows, and scalable Java Spring Boot microservices.
+**FullStack AI Product Engineer** building production-grade GenAI & Agentic AI systems — RAG pipelines, LangChain/LangGraph multi-agent workflows, and scalable Java Spring Boot microservices.
 
-Founder of **[Godizy](https://godizy.com)** · IIT Kanpur · Currently @ WorldRef Technologies
+Founder of **[Godizy](https://godizy.com)** · IIT Kanpur · Currently Open for new opportunities and challenging projects 
 
 📍 New Delhi, India &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/aakashkumariitk/) &nbsp;|&nbsp; 🌐 [akskriitk.github.io](https://akskriitk.github.io)
 
 ---
 
 ### 🔭 Currently working on
-- Multi-agent LangGraph pipelines for domain-specific reasoning (medical, compliance)
+- Multi-agent LangGraph pipelines for domain-specific reasoning (medical, ai-employee)
 - Scaling Spring Boot microservices for high-throughput B2B SaaS workflows
 - Writing up architecture breakdowns of my agentic AI projects
 
@@ -19,6 +19,10 @@ Founder of **[Godizy](https://godizy.com)** · IIT Kanpur · Currently @ WorldRe
 
 **[AI Medical Diagnostic Assistant](https://github.com/aksKrIITK/ai-medical-chatbot)**
 Multimodal clinical reasoning across voice, medical imagery (X-rays, rashes, lab reports), and text via a stateful LangGraph pipeline (STT → Vision LLM → TTS).
+`FastAPI` `LangGraph` `Groq` `Streamlit`
+
+**[Enterprise AI Worker](https://github.com/aksKrIITK/enterprise-ai-worker)**
+Build Enterprise AI Worker — a multi-tenant SaaS platform that gives every company an "AI employee": an assistant that lives inside Slack, email, and the browser, has read/write access (with approval gates) to the company's real tools (Jira, GitHub, Gmail, Calendar, SQL databases, internal documents), remembers context across sessions, and reasons using a coordinated team of specialized agents rather than a single monolithic LLM call.
 `FastAPI` `LangGraph` `Groq` `Streamlit`
 
 **DealX Connect**
