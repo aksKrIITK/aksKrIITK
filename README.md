@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Aakash Kumar
 
-<!--
-**aksKrIITK/aksKrIITK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FullStack Software Engineer | AI Engineer | Founder | IIT KANPUR
 
-Here are some ideas to get you started:
+I build production AI systems using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Java Spring Boot
+• FastAPI
+• LangChain
+• LangGraph
+• RAG
+• AWS
+• Docker
+• React
+• MySQL
+
+
+Founder @ Godizy
+
+I enjoy building scalable frontend & backend systems, AI agents, and SaaS products.
