@@ -80,7 +80,7 @@ SaaS platform helping Indian SMBs (restaurants, clinics, schools) establish digi
 
 ### 🧠 Background
 
-IIT Kanpur graduate (B.Tech, Electrical Engineering) with an MA in International Politics (JNU) and UPSC civil services preparation before transitioning into software engineering in 2023 — bringing rigorous analytical thinking to system design and agentic AI architecture.
+IIT Kanpur graduate (B.Tech, Electrical Engineering) with an MA in International Politics (JNU) and UPSC civil services preparation before transitioning into software engineering in 2023 — bringing rigorous analytical thinking to system design and agentic AI architecture. Also have expereince of founding [Godizy](https://godizy.com)
 
 ---
 
