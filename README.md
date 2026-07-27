@@ -9,7 +9,7 @@ Founder of **[Godizy](https://godizy.com)** · IIT Kanpur · Currently Open for 
 ---
 
 ### 🔭 Currently working on
-- Multi-agent LangGraph pipelines for domain-specific reasoning (medical, ai-employee)
+- Multi-agent LangGraph pipelines for domain-specific reasoning (medical, enterprise-ai-worker)
 - Scaling Spring Boot microservices for high-throughput B2B SaaS workflows
 - Writing up architecture breakdowns of my agentic AI projects
 
