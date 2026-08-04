@@ -2,7 +2,7 @@
 
 **FullStack AI Product Engineer** building production-grade GenAI & Agentic AI systems — RAG pipelines, LangChain/LangGraph multi-agent workflows, and scalable Java Spring Boot microservices.
 
-Founder of **[Godizy](https://godizy.com)** · IIT Kanpur · Currently Open for new opportunities and challenging projects 
+Founder of **[Godizy](https://godizy.com)** · IIT Kanpur · Currently Open for new opportunities and startups solving real problems
 
 📍 New Delhi, India &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/aakashkumariitk/) &nbsp;|&nbsp; 🌐 [akskriitk.github.io](https://akskriitk.github.io)
 
