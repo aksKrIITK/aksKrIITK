@@ -9,13 +9,19 @@ Founder of **[Godizy](https://godizy.com)** · IIT Kanpur · Currently Open for 
 ---
 
 ### 🔭 Currently working on
+- **SignalOS** is an enterprise-grade autonomous Go-To-Market (GTM) agent platform designed to automate end-to-end B2B sales development workflows.
+- **xyzstudio.art** transforms a high-level business objective into **production-ready multimedia marketing campaigns** (images, videos, multilingual voiceovers, subtitles, ad variants) while closing the loop with post-publish analytics.
 - Multi-agent LangGraph pipelines for domain-specific reasoning (medical, enterprise-ai-worker)
-- Scaling Spring Boot microservices for high-throughput B2B SaaS workflows
+- Scaling FastAPI/Spring Boot  microservices for high-throughput B2B SaaS workflows
 - Writing up architecture breakdowns of my agentic AI projects
 
 ---
 
 ### 🚀 Featured Projects
+
+**[SignalOS](https://github.com/aksKrIITK/signalOS)**
+Enterprise autonomous GTM agent platform — account discovery, SSRF-safe web enrichment, hybrid deterministic + LLM lead scoring, multi-tenant `pgvector` RAG, human-in-the-loop approval gates, and real-time SSE execution streaming.
+`FastAPI` `LangGraph` `PostgreSQL` `pgvector` `React` `TypeScript` `Redis`
 
 **[AI Medical Diagnostic Assistant](https://github.com/aksKrIITK/ai-medical-chatbot)**
 Multimodal clinical reasoning across voice, medical imagery (X-rays, rashes, lab reports), and text via a stateful LangGraph pipeline (STT → Vision LLM → TTS).
